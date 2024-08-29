@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metronom", "Metronom\Metronom.csproj", "{ADC83BB6-24A1-487B-A21C-68FEE3A6948C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC83BB6-24A1-487B-A21C-68FEE3A6948C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC83BB6-24A1-487B-A21C-68FEE3A6948C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC83BB6-24A1-487B-A21C-68FEE3A6948C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC83BB6-24A1-487B-A21C-68FEE3A6948C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76B6441-6931-4DC1-9732-8F2E2BD1562C}
+	EndGlobalSection
+EndGlobal
